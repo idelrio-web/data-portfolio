@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,unit_cost,list_price
+P20000,Art 20000,Office Supplies,Art,151.51,241.86
+P20001,Machines 20001,Technology,Machines,204.78,393.87
+P20002,Storage 20002,Office Supplies,Storage,299.36,385.49
+P20003,Chairs 20003,Furniture,Chairs,252.6,488.69
+P20004,Copiers 20004,Technology,Copiers,48.74,104.98
+P20005,Tables 20005,Furniture,Tables,83.08,120.96
+P20006,Binders 20006,Office Supplies,Binders,305.42,578.33
+P20007,Furnishings 20007,Furniture,Furnishings,146.28,241.7
+P20008,Tables 20008,Furniture,Tables,126.79,162.75
+P20009,Paper 20009,Office Supplies,Paper,283.49,346.83
+P20010,Paper 20010,Office Supplies,Paper,300.46,602.67
+P20011,Appliances 20011,Office Supplies,Appliances,329.12,461.69
+P20012,Binders 20012,Office Supplies,Binders,189.66,296.19
+P20013,Chairs 20013,Furniture,Chairs,301.95,446.75
+P20014,Paper 20014,Office Supplies,Paper,178.33,261.81
+P20015,Binders 20015,Office Supplies,Binders,98.22,191.66
+P20016,Accessories 20016,Technology,Accessories,258.98,533.64
+P20017,Accessories 20017,Technology,Accessories,247.34,515.52
+P20018,Copiers 20018,Technology,Copiers,187.07,231.07
+P20019,Furnishings 20019,Furniture,Furnishings,193.49,322.94
+P20020,Storage 20020,Office Supplies,Storage,223.1,452.55
+P20021,Bookcases 20021,Furniture,Bookcases,93.95,186.27
+P20022,Machines 20022,Technology,Machines,349.8,729.12
+P20023,Art 20023,Office Supplies,Art,163.66,234.28
+P20024,Appliances 20024,Office Supplies,Appliances,141.13,244.84
+P20025,Art 20025,Office Supplies,Art,72.07,97.65
+P20026,Bookcases 20026,Furniture,Bookcases,164.14,332.52
+P20027,Art 20027,Office Supplies,Art,80.81,107.82
+P20028,Machines 20028,Technology,Machines,365.75,474.4
+P20029,Paper 20029,Office Supplies,Paper,326.72,456.43
+P20030,Paper 20030,Office Supplies,Paper,109.52,175.39
+P20031,Art 20031,Office Supplies,Art,104.95,206.18
+P20032,Copiers 20032,Technology,Copiers,334.87,460.02
+P20033,Tables 20033,Furniture,Tables,230.61,505.91
+P20034,Chairs 20034,Furniture,Chairs,209.97,420.03
+P20035,Chairs 20035,Furniture,Chairs,161.12,311.68
+P20036,Paper 20036,Office Supplies,Paper,82.22,129.95
+P20037,Binders 20037,Office Supplies,Binders,345.42,630.17
+P20038,Binders 20038,Office Supplies,Binders,167.68,263.85
+P20039,Machines 20039,Technology,Machines,102.12,195.69
+P20040,Machines 20040,Technology,Machines,189.95,258.44
+P20041,Chairs 20041,Furniture,Chairs,188.21,273.64
+P20042,Phones 20042,Technology,Phones,322.07,460.35
+P20043,Art 20043,Office Supplies,Art,105.62,136.44
+P20044,Copiers 20044,Technology,Copiers,93.75,191.16
+P20045,Storage 20045,Office Supplies,Storage,18.87,24.91
+P20046,Storage 20046,Office Supplies,Storage,88.32,186.64
+P20047,Machines 20047,Technology,Machines,340.11,472.43
+P20048,Furnishings 20048,Furniture,Furnishings,125.79,226.4
+P20049,Machines 20049,Technology,Machines,55.68,109.68
+P20050,Phones 20050,Technology,Phones,179.28,371.2
+P20051,Appliances 20051,Office Supplies,Appliances,299.18,601.81
+P20052,Copiers 20052,Technology,Copiers,51.55,72.18
+P20053,Paper 20053,Office Supplies,Paper,204.58,360.42
+P20054,Art 20054,Office Supplies,Art,365.7,515.29
+P20055,Machines 20055,Technology,Machines,272.8,463.55
+P20056,Tables 20056,Furniture,Tables,384.45,733.5
+P20057,Machines 20057,Technology,Machines,393.75,598.36
+P20058,Appliances 20058,Office Supplies,Appliances,394.72,492.81
+P20059,Storage 20059,Office Supplies,Storage,350.84,508.11
+P20060,Copiers 20060,Technology,Copiers,392.09,814.65
+P20061,Paper 20061,Office Supplies,Paper,309.23,464.99
+P20062,Paper 20062,Office Supplies,Paper,332.69,391.13
+P20063,Bookcases 20063,Furniture,Bookcases,286.21,498.49
+P20064,Storage 20064,Office Supplies,Storage,142.57,293.46
+P20065,Chairs 20065,Furniture,Chairs,161.59,346.19
+P20066,Tables 20066,Furniture,Tables,106.76,219.92
+P20067,Copiers 20067,Technology,Copiers,354.85,488.53
+P20068,Storage 20068,Office Supplies,Storage,102.05,142.08
+P20069,Furnishings 20069,Furniture,Furnishings,383.61,727.14
+P20070,Paper 20070,Office Supplies,Paper,214.99,354.72
+P20071,Appliances 20071,Office Supplies,Appliances,257.97,351.25
+P20072,Machines 20072,Technology,Machines,143.08,251.47
+P20073,Furnishings 20073,Furniture,Furnishings,389.08,816.3
+P20074,Machines 20074,Technology,Machines,71.81,98.55
+P20075,Tables 20075,Furniture,Tables,52.44,64.23
+P20076,Phones 20076,Technology,Phones,57.35,115.77
+P20077,Binders 20077,Office Supplies,Binders,310.89,563.47
+P20078,Accessories 20078,Technology,Accessories,211.24,401.02
+P20079,Appliances 20079,Office Supplies,Appliances,141.7,232.53
+P20080,Tables 20080,Furniture,Tables,107.98,141.58
+P20081,Furnishings 20081,Furniture,Furnishings,337.62,505.32
+P20082,Appliances 20082,Office Supplies,Appliances,35.71,69.75
+P20083,Art 20083,Office Supplies,Art,90.57,169.67
+P20084,Phones 20084,Technology,Phones,229.69,334.04
+P20085,Paper 20085,Office Supplies,Paper,250.64,448.86
+P20086,Art 20086,Office Supplies,Art,278.95,518.43
+P20087,Binders 20087,Office Supplies,Binders,34.26,55.47
+P20088,Storage 20088,Office Supplies,Storage,92.84,149.75
+P20089,Phones 20089,Technology,Phones,98.64,199.37
+P20090,Binders 20090,Office Supplies,Binders,191.66,320.87
+P20091,Appliances 20091,Office Supplies,Appliances,371.55,619.15
+P20092,Appliances 20092,Office Supplies,Appliances,296.32,363.12
+P20093,Appliances 20093,Office Supplies,Appliances,195.23,413.45
+P20094,Storage 20094,Office Supplies,Storage,385.07,625.01
+P20095,Tables 20095,Furniture,Tables,90.68,113.35
+P20096,Bookcases 20096,Furniture,Bookcases,308.85,593.04
+P20097,Tables 20097,Furniture,Tables,230.14,301.94
+P20098,Machines 20098,Technology,Machines,252.52,376.9
+P20099,Binders 20099,Office Supplies,Binders,167.84,326.89
+P20100,Chairs 20100,Furniture,Chairs,202.58,393.79
+P20101,Machines 20101,Technology,Machines,399.54,553.42
+P20102,Paper 20102,Office Supplies,Paper,108.83,191.71
+P20103,Accessories 20103,Technology,Accessories,396.16,674.7
+P20104,Appliances 20104,Office Supplies,Appliances,373.51,509.49
+P20105,Art 20105,Office Supplies,Art,333.97,490.39
+P20106,Paper 20106,Office Supplies,Paper,394.09,828.15
+P20107,Machines 20107,Technology,Machines,111.31,165.51
+P20108,Binders 20108,Office Supplies,Binders,204.67,372.19
+P20109,Storage 20109,Office Supplies,Storage,300.92,451.45
+P20110,Storage 20110,Office Supplies,Storage,79.54,162.5
+P20111,Binders 20111,Office Supplies,Binders,95.01,185.01
+P20112,Binders 20112,Office Supplies,Binders,129.96,173.61
+P20113,Binders 20113,Office Supplies,Binders,113.64,138.44
+P20114,Furnishings 20114,Furniture,Furnishings,13.58,27.72
+P20115,Bookcases 20115,Furniture,Bookcases,244.59,395.48
+P20116,Paper 20116,Office Supplies,Paper,322.09,672.43
+P20117,Chairs 20117,Furniture,Chairs,75.55,158.59
+P20118,Appliances 20118,Office Supplies,Appliances,85.1,156.84
+P20119,Phones 20119,Technology,Phones,241.77,520.0
+P20120,Storage 20120,Office Supplies,Storage,193.51,295.62
+P20121,Tables 20121,Furniture,Tables,23.16,35.2
+P20122,Accessories 20122,Technology,Accessories,178.48,325.94
+P20123,Binders 20123,Office Supplies,Binders,311.78,623.89
+P20124,Phones 20124,Technology,Phones,192.63,343.57
+P20125,Chairs 20125,Furniture,Chairs,21.81,30.2
+P20126,Binders 20126,Office Supplies,Binders,74.78,150.73
+P20127,Accessories 20127,Technology,Accessories,84.53,179.72
+P20128,Tables 20128,Furniture,Tables,381.01,442.98
+P20129,Machines 20129,Technology,Machines,388.23,815.75
+P20130,Phones 20130,Technology,Phones,35.87,73.26
+P20131,Storage 20131,Office Supplies,Storage,247.82,393.57
+P20132,Storage 20132,Office Supplies,Storage,297.21,365.2
+P20133,Phones 20133,Technology,Phones,340.35,560.25
+P20134,Storage 20134,Office Supplies,Storage,387.94,744.76
+P20135,Paper 20135,Office Supplies,Paper,74.05,102.23
+P20136,Storage 20136,Office Supplies,Storage,294.99,405.91
+P20137,Machines 20137,Technology,Machines,154.39,315.62
+P20138,Bookcases 20138,Furniture,Bookcases,371.03,527.16
+P20139,Appliances 20139,Office Supplies,Appliances,394.99,516.7
+P20140,Bookcases 20140,Furniture,Bookcases,139.2,170.49
+P20141,Appliances 20141,Office Supplies,Appliances,302.74,438.78
+P20142,Binders 20142,Office Supplies,Binders,210.43,428.2
+P20143,Art 20143,Office Supplies,Art,381.43,699.29
+P20144,Tables 20144,Furniture,Tables,198.26,257.48
+P20145,Furnishings 20145,Furniture,Furnishings,276.58,331.82
+P20146,Storage 20146,Office Supplies,Storage,179.23,284.09
+P20147,Binders 20147,Office Supplies,Binders,115.46,136.66
+P20148,Paper 20148,Office Supplies,Paper,262.28,331.55
+P20149,Tables 20149,Furniture,Tables,103.08,167.96
+P20150,Appliances 20150,Office Supplies,Appliances,154.25,263.3
+P20151,Art 20151,Office Supplies,Art,13.62,23.03
+P20152,Art 20152,Office Supplies,Art,44.61,87.97
+P20153,Accessories 20153,Technology,Accessories,13.8,24.58
+P20154,Machines 20154,Technology,Machines,316.08,573.36
+P20155,Accessories 20155,Technology,Accessories,392.5,468.83
+P20156,Art 20156,Office Supplies,Art,62.96,94.64
+P20157,Copiers 20157,Technology,Copiers,11.41,18.54
+P20158,Copiers 20158,Technology,Copiers,194.52,423.46
+P20159,Paper 20159,Office Supplies,Paper,56.71,68.3
+P20160,Machines 20160,Technology,Machines,204.11,254.17
+P20161,Paper 20161,Office Supplies,Paper,372.39,624.7
+P20162,Machines 20162,Technology,Machines,204.3,419.33
+P20163,Paper 20163,Office Supplies,Paper,115.4,236.37
+P20164,Paper 20164,Office Supplies,Paper,390.73,525.85
+P20165,Storage 20165,Office Supplies,Storage,17.27,26.97
+P20166,Bookcases 20166,Furniture,Bookcases,76.62,142.4
+P20167,Appliances 20167,Office Supplies,Appliances,145.31,220.33
+P20168,Accessories 20168,Technology,Accessories,147.71,302.1
+P20169,Storage 20169,Office Supplies,Storage,89.46,187.43
+P20170,Appliances 20170,Office Supplies,Appliances,200.37,256.5
+P20171,Chairs 20171,Furniture,Chairs,300.11,386.33
+P20172,Machines 20172,Technology,Machines,244.58,463.69
+P20173,Machines 20173,Technology,Machines,397.16,599.16
+P20174,Chairs 20174,Furniture,Chairs,215.63,288.26
+P20175,Storage 20175,Office Supplies,Storage,10.58,22.47
+P20176,Paper 20176,Office Supplies,Paper,47.76,66.97
+P20177,Binders 20177,Office Supplies,Binders,17.96,25.92
+P20178,Furnishings 20178,Furniture,Furnishings,157.14,236.65
+P20179,Paper 20179,Office Supplies,Paper,40.44,47.58
+P20180,Tables 20180,Furniture,Tables,396.37,842.27
+P20181,Appliances 20181,Office Supplies,Appliances,215.07,318.37
+P20182,Phones 20182,Technology,Phones,338.49,707.54
+P20183,Appliances 20183,Office Supplies,Appliances,307.92,614.83
+P20184,Binders 20184,Office Supplies,Binders,42.26,92.72
+P20185,Machines 20185,Technology,Machines,41.84,76.95
+P20186,Bookcases 20186,Furniture,Bookcases,320.69,571.64
+P20187,Machines 20187,Technology,Machines,43.66,62.86
+P20188,Art 20188,Office Supplies,Art,182.05,260.05
+P20189,Binders 20189,Office Supplies,Binders,172.92,358.53
+P20190,Art 20190,Office Supplies,Art,173.26,258.88
+P20191,Art 20191,Office Supplies,Art,170.01,241.46
+P20192,Binders 20192,Office Supplies,Binders,144.01,251.16
+P20193,Binders 20193,Office Supplies,Binders,330.45,469.09
+P20194,Phones 20194,Technology,Phones,387.2,786.03
+P20195,Furnishings 20195,Furniture,Furnishings,212.95,282.9
+P20196,Accessories 20196,Technology,Accessories,109.06,231.87
+P20197,Bookcases 20197,Furniture,Bookcases,227.73,434.3
+P20198,Tables 20198,Furniture,Tables,327.28,399.58
+P20199,Storage 20199,Office Supplies,Storage,107.13,197.77

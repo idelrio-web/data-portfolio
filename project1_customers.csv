@@ -1,0 +1,501 @@
+customer_id,customer_name,segment,city,state,region,signup_date
+C10000,Customer 10000,Home Office,City 53,NV,West,2024-12-17
+C10001,Customer 10001,Home Office,City 12,WA,West,2023-08-09
+C10002,Customer 10002,Consumer,City 94,NC,South,2025-02-24
+C10003,Customer 10003,Home Office,City 45,PA,Northeast,2024-07-01
+C10004,Customer 10004,Consumer,City 98,NC,South,2024-03-16
+C10005,Customer 10005,Consumer,City 66,IN,Midwest,2023-04-11
+C10006,Customer 10006,Corporate,City 76,CT,Northeast,2023-10-31
+C10007,Customer 10007,Home Office,City 116,FL,South,2023-03-16
+C10008,Customer 10008,Consumer,City 24,NC,South,2025-04-12
+C10009,Customer 10009,Corporate,City 19,IL,Midwest,2024-08-21
+C10010,Customer 10010,Consumer,City 116,MA,Northeast,2024-02-06
+C10011,Customer 10011,Consumer,City 56,NJ,Northeast,2023-03-25
+C10012,Customer 10012,Consumer,City 57,IL,Midwest,2025-01-21
+C10013,Customer 10013,Corporate,City 53,OH,Midwest,2025-10-26
+C10014,Customer 10014,Corporate,City 38,NC,South,2023-04-17
+C10015,Customer 10015,Consumer,City 47,WI,Midwest,2025-07-10
+C10016,Customer 10016,Consumer,City 17,UT,Southwest,2024-11-28
+C10017,Customer 10017,Corporate,City 94,NY,Northeast,2025-05-22
+C10018,Customer 10018,Consumer,City 93,OH,Midwest,2023-10-31
+C10019,Customer 10019,Consumer,City 17,MI,Midwest,2023-02-10
+C10020,Customer 10020,Corporate,City 57,OH,Midwest,2024-12-17
+C10021,Customer 10021,Corporate,City 76,NV,West,2024-09-21
+C10022,Customer 10022,Consumer,City 37,WA,West,2025-05-20
+C10023,Customer 10023,Consumer,City 26,NM,Southwest,2025-12-12
+C10024,Customer 10024,Consumer,City 28,CT,Northeast,2023-02-07
+C10025,Customer 10025,Corporate,City 35,NJ,Northeast,2025-10-01
+C10026,Customer 10026,Corporate,City 94,WA,West,2024-07-06
+C10027,Customer 10027,Consumer,City 97,MI,Midwest,2024-04-02
+C10028,Customer 10028,Corporate,City 11,AZ,Southwest,2023-04-27
+C10029,Customer 10029,Consumer,City 20,GA,South,2025-02-24
+C10030,Customer 10030,Consumer,City 83,NY,Northeast,2024-06-28
+C10031,Customer 10031,Corporate,City 36,OR,West,2023-09-19
+C10032,Customer 10032,Consumer,City 11,FL,South,2025-11-16
+C10033,Customer 10033,Corporate,City 109,CO,Southwest,2024-02-06
+C10034,Customer 10034,Corporate,City 116,IN,Midwest,2025-04-16
+C10035,Customer 10035,Consumer,City 54,UT,Southwest,2025-05-13
+C10036,Customer 10036,Consumer,City 108,CA,West,2024-05-04
+C10037,Customer 10037,Corporate,City 37,FL,South,2025-03-01
+C10038,Customer 10038,Corporate,City 102,IL,Midwest,2024-05-22
+C10039,Customer 10039,Corporate,City 52,OH,Midwest,2024-12-27
+C10040,Customer 10040,Consumer,City 78,WA,West,2023-04-14
+C10041,Customer 10041,Consumer,City 5,GA,South,2025-05-11
+C10042,Customer 10042,Consumer,City 18,OR,West,2024-12-24
+C10043,Customer 10043,Home Office,City 21,WA,West,2025-05-18
+C10044,Customer 10044,Corporate,City 42,PA,Northeast,2024-05-04
+C10045,Customer 10045,Consumer,City 115,AZ,Southwest,2023-06-15
+C10046,Customer 10046,Consumer,City 10,OH,Midwest,2023-03-13
+C10047,Customer 10047,Corporate,City 112,GA,South,2024-04-28
+C10048,Customer 10048,Consumer,City 32,MI,Midwest,2025-06-03
+C10049,Customer 10049,Consumer,City 53,MI,Midwest,2025-07-19
+C10050,Customer 10050,Consumer,City 107,CO,Southwest,2023-01-11
+C10051,Customer 10051,Corporate,City 13,UT,Southwest,2023-12-12
+C10052,Customer 10052,Corporate,City 79,OR,West,2023-09-25
+C10053,Customer 10053,Home Office,City 13,MA,Northeast,2023-12-18
+C10054,Customer 10054,Corporate,City 5,NJ,Northeast,2023-09-16
+C10055,Customer 10055,Corporate,City 99,IN,Midwest,2023-12-06
+C10056,Customer 10056,Consumer,City 114,NJ,Northeast,2023-08-10
+C10057,Customer 10057,Home Office,City 31,GA,South,2025-09-18
+C10058,Customer 10058,Consumer,City 6,CA,West,2024-08-06
+C10059,Customer 10059,Corporate,City 107,CT,Northeast,2023-06-15
+C10060,Customer 10060,Consumer,City 107,CT,Northeast,2023-09-02
+C10061,Customer 10061,Corporate,City 92,IN,Midwest,2023-01-25
+C10062,Customer 10062,Corporate,City 12,IN,Midwest,2025-08-28
+C10063,Customer 10063,Consumer,City 112,NM,Southwest,2023-01-06
+C10064,Customer 10064,Consumer,City 99,CA,West,2023-03-16
+C10065,Customer 10065,Home Office,City 72,TX,South,2024-02-07
+C10066,Customer 10066,Corporate,City 37,CA,West,2023-11-04
+C10067,Customer 10067,Consumer,City 60,CO,Southwest,2024-06-30
+C10068,Customer 10068,Consumer,City 28,NY,Northeast,2023-07-10
+C10069,Customer 10069,Consumer,City 15,WA,West,2025-11-27
+C10070,Customer 10070,Consumer,City 70,MA,Northeast,2025-04-18
+C10071,Customer 10071,Corporate,City 86,CT,Northeast,2023-01-28
+C10072,Customer 10072,Home Office,City 15,NY,Northeast,2024-04-20
+C10073,Customer 10073,Consumer,City 36,OR,West,2025-12-01
+C10074,Customer 10074,Consumer,City 114,OH,Midwest,2023-12-10
+C10075,Customer 10075,Corporate,City 3,CT,Northeast,2024-06-30
+C10076,Customer 10076,Consumer,City 13,WA,West,2025-07-09
+C10077,Customer 10077,Corporate,City 115,GA,South,2023-01-08
+C10078,Customer 10078,Consumer,City 96,NV,West,2025-03-19
+C10079,Customer 10079,Consumer,City 3,NC,South,2025-07-16
+C10080,Customer 10080,Consumer,City 95,CO,Southwest,2023-10-02
+C10081,Customer 10081,Home Office,City 73,UT,Southwest,2025-04-17
+C10082,Customer 10082,Consumer,City 50,NC,South,2023-11-14
+C10083,Customer 10083,Home Office,City 78,PA,Northeast,2023-05-05
+C10084,Customer 10084,Consumer,City 30,NM,Southwest,2024-08-04
+C10085,Customer 10085,Consumer,City 98,MA,Northeast,2025-07-09
+C10086,Customer 10086,Consumer,City 71,NY,Northeast,2024-06-04
+C10087,Customer 10087,Consumer,City 37,NV,West,2023-12-16
+C10088,Customer 10088,Consumer,City 20,CT,Northeast,2024-10-17
+C10089,Customer 10089,Consumer,City 14,IL,Midwest,2024-05-13
+C10090,Customer 10090,Consumer,City 21,TX,South,2023-08-02
+C10091,Customer 10091,Consumer,City 82,MI,Midwest,2024-07-19
+C10092,Customer 10092,Home Office,City 61,NJ,Northeast,2025-12-13
+C10093,Customer 10093,Consumer,City 6,TN,South,2024-08-10
+C10094,Customer 10094,Corporate,City 30,NJ,Northeast,2023-09-07
+C10095,Customer 10095,Consumer,City 6,PA,Northeast,2023-11-06
+C10096,Customer 10096,Corporate,City 13,PA,Northeast,2025-09-05
+C10097,Customer 10097,Consumer,City 111,CA,West,2024-03-18
+C10098,Customer 10098,Home Office,City 108,CT,Northeast,2025-05-26
+C10099,Customer 10099,Corporate,City 93,CO,Southwest,2024-09-26
+C10100,Customer 10100,Consumer,City 17,NC,South,2025-03-20
+C10101,Customer 10101,Consumer,City 103,UT,Southwest,2025-11-24
+C10102,Customer 10102,Consumer,City 77,FL,South,2025-01-21
+C10103,Customer 10103,Consumer,City 57,CA,West,2024-04-19
+C10104,Customer 10104,Consumer,City 44,FL,South,2024-01-06
+C10105,Customer 10105,Corporate,City 46,FL,South,2024-04-20
+C10106,Customer 10106,Home Office,City 113,NM,Southwest,2025-05-18
+C10107,Customer 10107,Consumer,City 40,PA,Northeast,2025-04-23
+C10108,Customer 10108,Corporate,City 78,CT,Northeast,2024-06-19
+C10109,Customer 10109,Consumer,City 76,MI,Midwest,2025-04-19
+C10110,Customer 10110,Corporate,City 25,WA,West,2023-02-08
+C10111,Customer 10111,Corporate,City 16,WI,Midwest,2025-10-03
+C10112,Customer 10112,Consumer,City 87,TX,South,2024-11-11
+C10113,Customer 10113,Home Office,City 17,WI,Midwest,2025-03-03
+C10114,Customer 10114,Corporate,City 71,NV,West,2024-03-21
+C10115,Customer 10115,Consumer,City 113,MA,Northeast,2025-10-16
+C10116,Customer 10116,Corporate,City 12,GA,South,2023-02-24
+C10117,Customer 10117,Corporate,City 68,CA,West,2023-05-22
+C10118,Customer 10118,Corporate,City 63,MI,Midwest,2025-01-13
+C10119,Customer 10119,Corporate,City 59,MA,Northeast,2024-07-20
+C10120,Customer 10120,Consumer,City 15,NV,West,2025-07-14
+C10121,Customer 10121,Consumer,City 79,TX,South,2024-06-18
+C10122,Customer 10122,Consumer,City 80,MA,Northeast,2023-08-17
+C10123,Customer 10123,Consumer,City 91,TN,South,2025-06-13
+C10124,Customer 10124,Consumer,City 38,FL,South,2024-08-05
+C10125,Customer 10125,Consumer,City 112,NY,Northeast,2023-04-05
+C10126,Customer 10126,Corporate,City 87,FL,South,2023-05-21
+C10127,Customer 10127,Consumer,City 93,CT,Northeast,2024-01-31
+C10128,Customer 10128,Corporate,City 118,OR,West,2024-12-14
+C10129,Customer 10129,Home Office,City 15,CT,Northeast,2024-04-09
+C10130,Customer 10130,Corporate,City 15,MA,Northeast,2023-05-15
+C10131,Customer 10131,Consumer,City 2,WA,West,2024-08-19
+C10132,Customer 10132,Consumer,City 36,TN,South,2024-04-17
+C10133,Customer 10133,Home Office,City 36,NM,Southwest,2023-01-14
+C10134,Customer 10134,Home Office,City 14,NC,South,2024-08-19
+C10135,Customer 10135,Corporate,City 34,NV,West,2025-01-19
+C10136,Customer 10136,Corporate,City 119,CA,West,2024-12-29
+C10137,Customer 10137,Home Office,City 11,WA,West,2024-11-13
+C10138,Customer 10138,Consumer,City 29,NY,Northeast,2023-09-27
+C10139,Customer 10139,Home Office,City 24,MA,Northeast,2025-06-04
+C10140,Customer 10140,Consumer,City 5,UT,Southwest,2025-09-22
+C10141,Customer 10141,Corporate,City 73,CA,West,2025-06-16
+C10142,Customer 10142,Consumer,City 102,NJ,Northeast,2023-11-12
+C10143,Customer 10143,Corporate,City 111,TN,South,2025-11-26
+C10144,Customer 10144,Consumer,City 100,MA,Northeast,2025-06-16
+C10145,Customer 10145,Consumer,City 15,IN,Midwest,2023-05-05
+C10146,Customer 10146,Home Office,City 75,OH,Midwest,2024-08-23
+C10147,Customer 10147,Consumer,City 88,IL,Midwest,2025-06-09
+C10148,Customer 10148,Home Office,City 85,OR,West,2023-04-20
+C10149,Customer 10149,Corporate,City 7,NC,South,2024-07-11
+C10150,Customer 10150,Corporate,City 106,CA,West,2023-08-28
+C10151,Customer 10151,Consumer,City 11,IL,Midwest,2024-02-11
+C10152,Customer 10152,Corporate,City 55,CO,Southwest,2024-10-10
+C10153,Customer 10153,Consumer,City 69,UT,Southwest,2025-08-13
+C10154,Customer 10154,Corporate,City 36,CO,Southwest,2024-08-15
+C10155,Customer 10155,Home Office,City 78,OH,Midwest,2023-10-09
+C10156,Customer 10156,Consumer,City 61,CA,West,2024-05-20
+C10157,Customer 10157,Consumer,City 15,PA,Northeast,2023-05-22
+C10158,Customer 10158,Consumer,City 37,NJ,Northeast,2023-04-13
+C10159,Customer 10159,Consumer,City 76,NC,South,2024-03-14
+C10160,Customer 10160,Corporate,City 26,OR,West,2025-07-08
+C10161,Customer 10161,Consumer,City 5,FL,South,2025-10-04
+C10162,Customer 10162,Corporate,City 27,MI,Midwest,2023-06-11
+C10163,Customer 10163,Corporate,City 84,UT,Southwest,2024-10-07
+C10164,Customer 10164,Corporate,City 38,OH,Midwest,2024-11-06
+C10165,Customer 10165,Corporate,City 52,UT,Southwest,2023-08-04
+C10166,Customer 10166,Corporate,City 62,IN,Midwest,2025-11-19
+C10167,Customer 10167,Consumer,City 110,WI,Midwest,2023-05-21
+C10168,Customer 10168,Consumer,City 96,GA,South,2023-10-22
+C10169,Customer 10169,Consumer,City 59,WI,Midwest,2024-02-25
+C10170,Customer 10170,Consumer,City 101,CA,West,2025-08-09
+C10171,Customer 10171,Consumer,City 40,OR,West,2024-09-10
+C10172,Customer 10172,Consumer,City 89,FL,South,2023-03-14
+C10173,Customer 10173,Consumer,City 102,WI,Midwest,2025-02-12
+C10174,Customer 10174,Consumer,City 72,TX,South,2023-09-20
+C10175,Customer 10175,Home Office,City 115,IN,Midwest,2024-07-03
+C10176,Customer 10176,Corporate,City 38,OH,Midwest,2024-04-09
+C10177,Customer 10177,Corporate,City 47,WA,West,2025-04-04
+C10178,Customer 10178,Consumer,City 25,AZ,Southwest,2025-01-09
+C10179,Customer 10179,Corporate,City 20,IL,Midwest,2025-02-18
+C10180,Customer 10180,Corporate,City 67,CT,Northeast,2025-11-15
+C10181,Customer 10181,Consumer,City 17,CT,Northeast,2024-12-13
+C10182,Customer 10182,Corporate,City 10,NJ,Northeast,2023-12-26
+C10183,Customer 10183,Consumer,City 56,OR,West,2024-06-09
+C10184,Customer 10184,Consumer,City 108,AZ,Southwest,2023-09-25
+C10185,Customer 10185,Consumer,City 35,FL,South,2023-07-30
+C10186,Customer 10186,Consumer,City 59,PA,Northeast,2025-03-02
+C10187,Customer 10187,Corporate,City 101,AZ,Southwest,2025-07-09
+C10188,Customer 10188,Corporate,City 80,OH,Midwest,2024-03-21
+C10189,Customer 10189,Consumer,City 44,TX,South,2025-03-04
+C10190,Customer 10190,Consumer,City 101,NJ,Northeast,2025-10-16
+C10191,Customer 10191,Consumer,City 102,OH,Midwest,2025-01-24
+C10192,Customer 10192,Home Office,City 70,WI,Midwest,2023-11-30
+C10193,Customer 10193,Consumer,City 60,NM,Southwest,2024-09-30
+C10194,Customer 10194,Home Office,City 48,IL,Midwest,2023-01-25
+C10195,Customer 10195,Consumer,City 22,NC,South,2024-03-04
+C10196,Customer 10196,Home Office,City 3,AZ,Southwest,2023-10-11
+C10197,Customer 10197,Corporate,City 37,GA,South,2024-04-05
+C10198,Customer 10198,Corporate,City 34,IL,Midwest,2024-03-30
+C10199,Customer 10199,Corporate,City 117,OH,Midwest,2025-02-20
+C10200,Customer 10200,Home Office,City 91,PA,Northeast,2025-12-14
+C10201,Customer 10201,Corporate,City 115,OH,Midwest,2023-11-08
+C10202,Customer 10202,Corporate,City 14,WI,Midwest,2023-03-23
+C10203,Customer 10203,Corporate,City 66,PA,Northeast,2024-12-12
+C10204,Customer 10204,Consumer,City 118,WI,Midwest,2023-04-28
+C10205,Customer 10205,Consumer,City 90,MA,Northeast,2025-11-28
+C10206,Customer 10206,Corporate,City 5,CA,West,2023-11-23
+C10207,Customer 10207,Consumer,City 118,PA,Northeast,2025-08-16
+C10208,Customer 10208,Corporate,City 49,CO,Southwest,2023-09-22
+C10209,Customer 10209,Corporate,City 67,TX,South,2023-09-01
+C10210,Customer 10210,Consumer,City 98,CO,Southwest,2024-05-01
+C10211,Customer 10211,Consumer,City 6,OR,West,2025-11-09
+C10212,Customer 10212,Corporate,City 85,MA,Northeast,2025-04-15
+C10213,Customer 10213,Corporate,City 88,NV,West,2025-03-21
+C10214,Customer 10214,Corporate,City 28,AZ,Southwest,2025-09-21
+C10215,Customer 10215,Consumer,City 1,CO,Southwest,2024-04-30
+C10216,Customer 10216,Consumer,City 4,UT,Southwest,2024-08-04
+C10217,Customer 10217,Consumer,City 80,TN,South,2024-10-30
+C10218,Customer 10218,Home Office,City 42,WI,Midwest,2024-07-27
+C10219,Customer 10219,Consumer,City 71,NJ,Northeast,2025-02-16
+C10220,Customer 10220,Consumer,City 106,OR,West,2024-08-24
+C10221,Customer 10221,Corporate,City 41,TX,South,2025-01-09
+C10222,Customer 10222,Consumer,City 119,WI,Midwest,2024-08-07
+C10223,Customer 10223,Corporate,City 17,GA,South,2024-08-07
+C10224,Customer 10224,Corporate,City 84,NV,West,2025-07-25
+C10225,Customer 10225,Consumer,City 109,OR,West,2024-06-26
+C10226,Customer 10226,Consumer,City 44,AZ,Southwest,2023-04-23
+C10227,Customer 10227,Consumer,City 3,AZ,Southwest,2024-08-30
+C10228,Customer 10228,Consumer,City 41,MA,Northeast,2025-08-22
+C10229,Customer 10229,Consumer,City 90,CT,Northeast,2025-11-19
+C10230,Customer 10230,Consumer,City 107,NJ,Northeast,2024-01-15
+C10231,Customer 10231,Consumer,City 109,IN,Midwest,2025-09-02
+C10232,Customer 10232,Corporate,City 71,MA,Northeast,2023-08-25
+C10233,Customer 10233,Consumer,City 29,OR,West,2025-07-24
+C10234,Customer 10234,Consumer,City 105,CA,West,2024-01-15
+C10235,Customer 10235,Corporate,City 95,WA,West,2023-10-02
+C10236,Customer 10236,Home Office,City 57,GA,South,2025-07-31
+C10237,Customer 10237,Home Office,City 97,OH,Midwest,2023-10-07
+C10238,Customer 10238,Corporate,City 23,CO,Southwest,2024-05-29
+C10239,Customer 10239,Home Office,City 78,AZ,Southwest,2024-04-12
+C10240,Customer 10240,Consumer,City 52,GA,South,2025-10-20
+C10241,Customer 10241,Consumer,City 13,CT,Northeast,2025-03-20
+C10242,Customer 10242,Consumer,City 8,CA,West,2024-09-18
+C10243,Customer 10243,Consumer,City 38,UT,Southwest,2025-05-15
+C10244,Customer 10244,Consumer,City 46,NY,Northeast,2024-11-26
+C10245,Customer 10245,Consumer,City 25,MA,Northeast,2024-05-06
+C10246,Customer 10246,Consumer,City 50,IN,Midwest,2023-09-10
+C10247,Customer 10247,Consumer,City 103,AZ,Southwest,2024-03-30
+C10248,Customer 10248,Consumer,City 59,WA,West,2023-10-28
+C10249,Customer 10249,Corporate,City 93,MI,Midwest,2024-08-26
+C10250,Customer 10250,Consumer,City 39,IN,Midwest,2023-09-08
+C10251,Customer 10251,Consumer,City 82,PA,Northeast,2025-08-03
+C10252,Customer 10252,Consumer,City 111,FL,South,2023-09-28
+C10253,Customer 10253,Consumer,City 85,MI,Midwest,2025-08-04
+C10254,Customer 10254,Home Office,City 17,TX,South,2023-12-16
+C10255,Customer 10255,Consumer,City 23,CA,West,2025-10-18
+C10256,Customer 10256,Consumer,City 74,CA,West,2025-02-12
+C10257,Customer 10257,Corporate,City 71,WA,West,2023-09-10
+C10258,Customer 10258,Corporate,City 102,IL,Midwest,2023-11-04
+C10259,Customer 10259,Home Office,City 92,IL,Midwest,2025-09-08
+C10260,Customer 10260,Consumer,City 110,NM,Southwest,2023-09-30
+C10261,Customer 10261,Consumer,City 118,MA,Northeast,2025-09-22
+C10262,Customer 10262,Corporate,City 38,TN,South,2023-06-12
+C10263,Customer 10263,Consumer,City 26,WA,West,2023-11-21
+C10264,Customer 10264,Consumer,City 10,FL,South,2025-06-20
+C10265,Customer 10265,Consumer,City 3,FL,South,2024-02-24
+C10266,Customer 10266,Corporate,City 85,NC,South,2025-07-14
+C10267,Customer 10267,Corporate,City 106,NJ,Northeast,2023-05-16
+C10268,Customer 10268,Corporate,City 18,AZ,Southwest,2025-04-30
+C10269,Customer 10269,Home Office,City 61,CA,West,2025-05-19
+C10270,Customer 10270,Home Office,City 2,AZ,Southwest,2025-10-08
+C10271,Customer 10271,Home Office,City 16,MI,Midwest,2024-03-01
+C10272,Customer 10272,Corporate,City 64,NV,West,2024-03-30
+C10273,Customer 10273,Corporate,City 7,OR,West,2025-03-01
+C10274,Customer 10274,Corporate,City 79,OR,West,2024-01-12
+C10275,Customer 10275,Consumer,City 71,CA,West,2023-02-26
+C10276,Customer 10276,Corporate,City 31,CT,Northeast,2025-07-07
+C10277,Customer 10277,Corporate,City 48,WA,West,2024-07-29
+C10278,Customer 10278,Corporate,City 68,OH,Midwest,2025-04-15
+C10279,Customer 10279,Consumer,City 50,TN,South,2023-06-14
+C10280,Customer 10280,Consumer,City 95,NY,Northeast,2023-02-08
+C10281,Customer 10281,Home Office,City 12,MI,Midwest,2025-10-25
+C10282,Customer 10282,Consumer,City 82,FL,South,2023-06-25
+C10283,Customer 10283,Consumer,City 22,CO,Southwest,2023-10-18
+C10284,Customer 10284,Consumer,City 109,CT,Northeast,2025-12-12
+C10285,Customer 10285,Home Office,City 88,NM,Southwest,2025-08-21
+C10286,Customer 10286,Corporate,City 62,FL,South,2024-03-28
+C10287,Customer 10287,Corporate,City 94,NC,South,2024-08-07
+C10288,Customer 10288,Home Office,City 108,IL,Midwest,2025-05-02
+C10289,Customer 10289,Consumer,City 12,MA,Northeast,2024-07-04
+C10290,Customer 10290,Home Office,City 3,OH,Midwest,2024-05-14
+C10291,Customer 10291,Home Office,City 86,NJ,Northeast,2025-05-31
+C10292,Customer 10292,Corporate,City 38,FL,South,2024-11-17
+C10293,Customer 10293,Corporate,City 49,MI,Midwest,2024-02-26
+C10294,Customer 10294,Consumer,City 56,WI,Midwest,2024-07-06
+C10295,Customer 10295,Consumer,City 47,NM,Southwest,2024-02-02
+C10296,Customer 10296,Consumer,City 82,AZ,Southwest,2023-12-04
+C10297,Customer 10297,Consumer,City 29,NV,West,2025-03-07
+C10298,Customer 10298,Consumer,City 105,OH,Midwest,2024-10-01
+C10299,Customer 10299,Consumer,City 23,IN,Midwest,2025-12-04
+C10300,Customer 10300,Consumer,City 31,OR,West,2024-05-12
+C10301,Customer 10301,Corporate,City 115,OR,West,2023-04-09
+C10302,Customer 10302,Consumer,City 14,GA,South,2025-08-25
+C10303,Customer 10303,Home Office,City 92,OR,West,2023-12-09
+C10304,Customer 10304,Home Office,City 118,TN,South,2023-04-26
+C10305,Customer 10305,Consumer,City 9,CO,Southwest,2024-10-06
+C10306,Customer 10306,Consumer,City 66,NJ,Northeast,2023-09-01
+C10307,Customer 10307,Consumer,City 74,CT,Northeast,2025-03-24
+C10308,Customer 10308,Consumer,City 31,IL,Midwest,2023-03-31
+C10309,Customer 10309,Corporate,City 70,NV,West,2024-02-15
+C10310,Customer 10310,Consumer,City 45,FL,South,2025-07-17
+C10311,Customer 10311,Consumer,City 92,NV,West,2023-02-03
+C10312,Customer 10312,Home Office,City 15,TN,South,2024-03-23
+C10313,Customer 10313,Corporate,City 32,TX,South,2024-02-26
+C10314,Customer 10314,Consumer,City 50,TX,South,2024-12-13
+C10315,Customer 10315,Home Office,City 85,CA,West,2025-08-20
+C10316,Customer 10316,Consumer,City 41,WI,Midwest,2025-03-29
+C10317,Customer 10317,Consumer,City 30,FL,South,2023-12-31
+C10318,Customer 10318,Corporate,City 106,NV,West,2023-03-23
+C10319,Customer 10319,Consumer,City 59,UT,Southwest,2023-11-06
+C10320,Customer 10320,Consumer,City 52,UT,Southwest,2025-06-22
+C10321,Customer 10321,Consumer,City 114,AZ,Southwest,2023-07-19
+C10322,Customer 10322,Corporate,City 20,CT,Northeast,2023-06-10
+C10323,Customer 10323,Consumer,City 31,NJ,Northeast,2023-06-30
+C10324,Customer 10324,Consumer,City 110,AZ,Southwest,2023-06-21
+C10325,Customer 10325,Consumer,City 56,MA,Northeast,2023-03-20
+C10326,Customer 10326,Home Office,City 23,MI,Midwest,2024-12-24
+C10327,Customer 10327,Consumer,City 89,NV,West,2025-06-13
+C10328,Customer 10328,Consumer,City 110,NY,Northeast,2025-06-26
+C10329,Customer 10329,Corporate,City 41,IL,Midwest,2025-10-17
+C10330,Customer 10330,Corporate,City 90,NC,South,2023-03-01
+C10331,Customer 10331,Consumer,City 110,NJ,Northeast,2023-08-19
+C10332,Customer 10332,Home Office,City 1,UT,Southwest,2025-04-05
+C10333,Customer 10333,Consumer,City 8,NM,Southwest,2025-08-19
+C10334,Customer 10334,Corporate,City 19,TX,South,2024-04-20
+C10335,Customer 10335,Consumer,City 110,IN,Midwest,2023-06-17
+C10336,Customer 10336,Corporate,City 55,OH,Midwest,2025-02-26
+C10337,Customer 10337,Home Office,City 57,GA,South,2023-03-21
+C10338,Customer 10338,Corporate,City 22,IN,Midwest,2024-08-31
+C10339,Customer 10339,Consumer,City 5,CT,Northeast,2024-10-01
+C10340,Customer 10340,Home Office,City 90,CO,Southwest,2025-03-28
+C10341,Customer 10341,Consumer,City 79,MI,Midwest,2025-04-02
+C10342,Customer 10342,Corporate,City 44,CO,Southwest,2025-02-21
+C10343,Customer 10343,Corporate,City 67,NM,Southwest,2025-09-06
+C10344,Customer 10344,Consumer,City 108,MI,Midwest,2025-03-04
+C10345,Customer 10345,Consumer,City 41,WA,West,2024-03-16
+C10346,Customer 10346,Consumer,City 15,MI,Midwest,2023-10-11
+C10347,Customer 10347,Corporate,City 79,UT,Southwest,2023-05-24
+C10348,Customer 10348,Consumer,City 39,AZ,Southwest,2025-08-29
+C10349,Customer 10349,Consumer,City 103,NV,West,2025-10-26
+C10350,Customer 10350,Consumer,City 16,MA,Northeast,2023-07-08
+C10351,Customer 10351,Corporate,City 34,TX,South,2023-11-04
+C10352,Customer 10352,Consumer,City 25,CT,Northeast,2025-03-22
+C10353,Customer 10353,Corporate,City 114,OH,Midwest,2025-04-22
+C10354,Customer 10354,Consumer,City 75,FL,South,2023-12-03
+C10355,Customer 10355,Corporate,City 48,TN,South,2024-07-22
+C10356,Customer 10356,Home Office,City 48,IL,Midwest,2024-08-13
+C10357,Customer 10357,Home Office,City 53,MA,Northeast,2024-02-02
+C10358,Customer 10358,Consumer,City 39,CT,Northeast,2023-12-26
+C10359,Customer 10359,Consumer,City 76,GA,South,2024-04-29
+C10360,Customer 10360,Home Office,City 109,NJ,Northeast,2024-03-17
+C10361,Customer 10361,Corporate,City 117,CO,Southwest,2025-10-22
+C10362,Customer 10362,Consumer,City 91,MA,Northeast,2023-09-13
+C10363,Customer 10363,Corporate,City 29,GA,South,2025-02-05
+C10364,Customer 10364,Corporate,City 31,FL,South,2023-12-01
+C10365,Customer 10365,Corporate,City 27,NM,Southwest,2023-11-10
+C10366,Customer 10366,Consumer,City 20,CO,Southwest,2024-09-17
+C10367,Customer 10367,Corporate,City 95,OR,West,2024-05-12
+C10368,Customer 10368,Consumer,City 93,AZ,Southwest,2025-02-05
+C10369,Customer 10369,Consumer,City 119,OR,West,2024-05-08
+C10370,Customer 10370,Corporate,City 51,NY,Northeast,2023-01-29
+C10371,Customer 10371,Consumer,City 117,CT,Northeast,2023-11-14
+C10372,Customer 10372,Consumer,City 95,NY,Northeast,2024-10-06
+C10373,Customer 10373,Consumer,City 79,WI,Midwest,2023-09-02
+C10374,Customer 10374,Consumer,City 21,TN,South,2024-09-22
+C10375,Customer 10375,Corporate,City 60,MI,Midwest,2023-09-24
+C10376,Customer 10376,Home Office,City 119,NC,South,2023-01-02
+C10377,Customer 10377,Corporate,City 12,WA,West,2023-04-27
+C10378,Customer 10378,Consumer,City 38,NV,West,2023-12-17
+C10379,Customer 10379,Corporate,City 7,OR,West,2023-08-18
+C10380,Customer 10380,Corporate,City 94,FL,South,2023-12-21
+C10381,Customer 10381,Consumer,City 50,CT,Northeast,2025-10-22
+C10382,Customer 10382,Consumer,City 96,UT,Southwest,2025-02-21
+C10383,Customer 10383,Home Office,City 18,CO,Southwest,2023-10-20
+C10384,Customer 10384,Consumer,City 19,NY,Northeast,2023-12-23
+C10385,Customer 10385,Consumer,City 7,AZ,Southwest,2024-07-12
+C10386,Customer 10386,Consumer,City 93,OR,West,2025-07-20
+C10387,Customer 10387,Consumer,City 98,UT,Southwest,2025-03-28
+C10388,Customer 10388,Corporate,City 103,CA,West,2023-03-13
+C10389,Customer 10389,Consumer,City 98,MI,Midwest,2024-05-12
+C10390,Customer 10390,Consumer,City 88,IN,Midwest,2024-08-20
+C10391,Customer 10391,Corporate,City 60,CO,Southwest,2023-08-09
+C10392,Customer 10392,Consumer,City 44,GA,South,2023-12-05
+C10393,Customer 10393,Consumer,City 90,FL,South,2024-12-11
+C10394,Customer 10394,Consumer,City 21,TX,South,2024-01-05
+C10395,Customer 10395,Home Office,City 48,NV,West,2023-03-08
+C10396,Customer 10396,Consumer,City 78,NY,Northeast,2025-12-17
+C10397,Customer 10397,Home Office,City 105,NJ,Northeast,2023-07-21
+C10398,Customer 10398,Consumer,City 23,CT,Northeast,2024-05-12
+C10399,Customer 10399,Corporate,City 35,OH,Midwest,2025-11-02
+C10400,Customer 10400,Corporate,City 66,WA,West,2025-03-27
+C10401,Customer 10401,Consumer,City 4,UT,Southwest,2024-05-23
+C10402,Customer 10402,Consumer,City 58,MA,Northeast,2024-02-12
+C10403,Customer 10403,Corporate,City 91,NM,Southwest,2023-10-11
+C10404,Customer 10404,Consumer,City 46,UT,Southwest,2023-06-22
+C10405,Customer 10405,Corporate,City 38,WA,West,2023-06-27
+C10406,Customer 10406,Consumer,City 8,NC,South,2025-07-13
+C10407,Customer 10407,Corporate,City 107,CA,West,2024-10-16
+C10408,Customer 10408,Consumer,City 106,TX,South,2025-07-08
+C10409,Customer 10409,Consumer,City 112,PA,Northeast,2025-07-09
+C10410,Customer 10410,Consumer,City 70,AZ,Southwest,2024-06-03
+C10411,Customer 10411,Consumer,City 26,UT,Southwest,2023-01-30
+C10412,Customer 10412,Consumer,City 51,IN,Midwest,2023-04-25
+C10413,Customer 10413,Consumer,City 103,CA,West,2024-12-14
+C10414,Customer 10414,Consumer,City 7,NM,Southwest,2023-09-25
+C10415,Customer 10415,Consumer,City 73,NM,Southwest,2025-10-14
+C10416,Customer 10416,Consumer,City 111,CT,Northeast,2023-02-05
+C10417,Customer 10417,Corporate,City 14,TX,South,2023-02-25
+C10418,Customer 10418,Corporate,City 102,IL,Midwest,2023-08-07
+C10419,Customer 10419,Home Office,City 63,NV,West,2025-01-27
+C10420,Customer 10420,Consumer,City 48,IL,Midwest,2023-08-18
+C10421,Customer 10421,Corporate,City 69,WI,Midwest,2023-04-05
+C10422,Customer 10422,Consumer,City 117,NY,Northeast,2025-05-27
+C10423,Customer 10423,Consumer,City 116,MI,Midwest,2023-11-14
+C10424,Customer 10424,Consumer,City 70,NJ,Northeast,2025-05-20
+C10425,Customer 10425,Consumer,City 23,FL,South,2023-08-26
+C10426,Customer 10426,Consumer,City 71,TN,South,2023-02-04
+C10427,Customer 10427,Corporate,City 52,GA,South,2024-04-26
+C10428,Customer 10428,Consumer,City 112,CO,Southwest,2025-05-28
+C10429,Customer 10429,Corporate,City 54,FL,South,2023-10-24
+C10430,Customer 10430,Corporate,City 79,NM,Southwest,2023-11-15
+C10431,Customer 10431,Consumer,City 42,NM,Southwest,2025-11-28
+C10432,Customer 10432,Corporate,City 20,IL,Midwest,2023-12-01
+C10433,Customer 10433,Corporate,City 26,NJ,Northeast,2025-08-03
+C10434,Customer 10434,Corporate,City 31,NC,South,2024-08-06
+C10435,Customer 10435,Corporate,City 72,CT,Northeast,2023-07-18
+C10436,Customer 10436,Consumer,City 113,NY,Northeast,2024-12-19
+C10437,Customer 10437,Consumer,City 69,NV,West,2025-10-05
+C10438,Customer 10438,Corporate,City 81,TX,South,2025-10-21
+C10439,Customer 10439,Home Office,City 89,CA,West,2024-01-03
+C10440,Customer 10440,Consumer,City 56,NM,Southwest,2023-08-11
+C10441,Customer 10441,Home Office,City 40,OH,Midwest,2025-10-22
+C10442,Customer 10442,Consumer,City 68,NJ,Northeast,2025-07-20
+C10443,Customer 10443,Consumer,City 93,TX,South,2024-04-21
+C10444,Customer 10444,Home Office,City 115,UT,Southwest,2023-09-21
+C10445,Customer 10445,Corporate,City 23,TN,South,2025-07-21
+C10446,Customer 10446,Consumer,City 45,CT,Northeast,2024-09-26
+C10447,Customer 10447,Corporate,City 58,CO,Southwest,2024-07-07
+C10448,Customer 10448,Consumer,City 73,TN,South,2025-03-09
+C10449,Customer 10449,Consumer,City 50,NJ,Northeast,2023-05-20
+C10450,Customer 10450,Consumer,City 100,MA,Northeast,2023-08-31
+C10451,Customer 10451,Consumer,City 105,FL,South,2025-03-10
+C10452,Customer 10452,Corporate,City 56,PA,Northeast,2024-07-08
+C10453,Customer 10453,Consumer,City 80,IL,Midwest,2024-11-17
+C10454,Customer 10454,Consumer,City 5,NC,South,2023-05-30
+C10455,Customer 10455,Consumer,City 26,PA,Northeast,2025-10-16
+C10456,Customer 10456,Consumer,City 41,IL,Midwest,2024-06-23
+C10457,Customer 10457,Corporate,City 49,WI,Midwest,2023-08-06
+C10458,Customer 10458,Corporate,City 10,WI,Midwest,2023-09-26
+C10459,Customer 10459,Consumer,City 76,CT,Northeast,2025-08-26
+C10460,Customer 10460,Consumer,City 5,OR,West,2024-02-04
+C10461,Customer 10461,Consumer,City 115,CO,Southwest,2024-06-07
+C10462,Customer 10462,Home Office,City 36,UT,Southwest,2024-08-19
+C10463,Customer 10463,Corporate,City 112,AZ,Southwest,2023-12-07
+C10464,Customer 10464,Corporate,City 8,NY,Northeast,2023-11-06
+C10465,Customer 10465,Home Office,City 64,NY,Northeast,2025-03-01
+C10466,Customer 10466,Consumer,City 48,PA,Northeast,2025-02-14
+C10467,Customer 10467,Consumer,City 116,NY,Northeast,2023-07-08
+C10468,Customer 10468,Home Office,City 35,TX,South,2024-07-16
+C10469,Customer 10469,Corporate,City 104,CA,West,2025-01-07
+C10470,Customer 10470,Corporate,City 117,WI,Midwest,2023-05-20
+C10471,Customer 10471,Corporate,City 16,CO,Southwest,2024-11-16
+C10472,Customer 10472,Home Office,City 65,UT,Southwest,2024-02-29
+C10473,Customer 10473,Consumer,City 84,CO,Southwest,2024-04-24
+C10474,Customer 10474,Consumer,City 46,MI,Midwest,2025-08-02
+C10475,Customer 10475,Consumer,City 11,OR,West,2023-05-05
+C10476,Customer 10476,Home Office,City 54,OH,Midwest,2025-03-04
+C10477,Customer 10477,Consumer,City 5,MA,Northeast,2023-04-06
+C10478,Customer 10478,Consumer,City 117,NJ,Northeast,2023-11-06
+C10479,Customer 10479,Home Office,City 112,UT,Southwest,2024-12-28
+C10480,Customer 10480,Consumer,City 6,CA,West,2024-09-08
+C10481,Customer 10481,Corporate,City 24,NY,Northeast,2023-06-12
+C10482,Customer 10482,Corporate,City 64,CO,Southwest,2023-10-13
+C10483,Customer 10483,Corporate,City 96,FL,South,2024-07-09
+C10484,Customer 10484,Consumer,City 113,TN,South,2024-11-15
+C10485,Customer 10485,Consumer,City 27,CA,West,2024-05-31
+C10486,Customer 10486,Corporate,City 46,TN,South,2025-07-19
+C10487,Customer 10487,Consumer,City 22,WA,West,2024-04-08
+C10488,Customer 10488,Consumer,City 81,WA,West,2023-07-10
+C10489,Customer 10489,Consumer,City 86,NJ,Northeast,2025-04-20
+C10490,Customer 10490,Consumer,City 23,TN,South,2025-04-15
+C10491,Customer 10491,Consumer,City 62,MI,Midwest,2024-08-04
+C10492,Customer 10492,Consumer,City 119,PA,Northeast,2023-10-31
+C10493,Customer 10493,Consumer,City 51,MI,Midwest,2025-10-06
+C10494,Customer 10494,Corporate,City 28,GA,South,2023-09-21
+C10495,Customer 10495,Consumer,City 117,TX,South,2024-10-16
+C10496,Customer 10496,Consumer,City 57,WI,Midwest,2023-11-06
+C10497,Customer 10497,Corporate,City 78,CT,Northeast,2025-02-27
+C10498,Customer 10498,Home Office,City 76,PA,Northeast,2024-05-14
+C10499,Customer 10499,Corporate,City 42,NC,South,2023-11-27
