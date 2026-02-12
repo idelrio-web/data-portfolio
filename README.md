@@ -11,8 +11,9 @@ A retail business wants a clear view of sales performance and profitability acro
 - Which regions are generating the most revenue?
 
 ## Dashboard
-View the interactive dashboard here: (https://lookerstudio.google.com/reporting/e1dc8358-f7b6-4b0f-90e6-aa6fdfc50109)
-![Dashboard Screenshot](docs/images/dashboard.png)
+View the interactive dashboard here: [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/e1dc8358-f7b6-4b0f-90e6-aa6fdfc50109)
+
+![Dashboard Preview](docs/image/dashboard.png)
 
 ## Key Metrics
 - Total Revenue
