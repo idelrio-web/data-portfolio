@@ -15,6 +15,7 @@ View the interactive dashboard here: (https://lookerstudio.google.com/reporting/
 Executive summary: [docs/project1_executive_summary.md](docs/project1_executive_summary.md)
 ![Dashboard Screenshot](docs/image/dashboard.png)
 
+
 ## Key Metrics
 - Total Revenue
 - Total Profit
