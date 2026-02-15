@@ -13,7 +13,7 @@ A retail business wants a clear view of sales performance and profitability acro
 ## Dashboard
 View the interactive dashboard here: (https://lookerstudio.google.com/reporting/e1dc8358-f7b6-4b0f-90e6-aa6fdfc50109)
 Executive summary: [docs/project1_executive_summary.md](docs/project1_executive_summary.md)
-
+![Dashboard Screenshot](docs/image/dashboard.png)
 
 ## Key Metrics
 - Total Revenue
