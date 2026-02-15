@@ -1,0 +1,5 @@
+channel,tickets,avg_resolution_hours,sla_compliance_pct
+Email,1200,24.16,91.83
+Chat,1059,23.0,92.73
+Phone,730,24.24,90.68
+Web,511,22.75,92.95

@@ -1,2 +1,2 @@
-total_tickets
-3500
+total_tickets,resolved_tickets,avg_resolution_hours,sla_compliance_pct,csat_positive_pct
+3500,3500,23.62,92.03,82.46

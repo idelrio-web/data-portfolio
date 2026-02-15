@@ -1,0 +1,7 @@
+category,tickets,avg_resolution_hours,sla_compliance_pct
+General,555,24.55,92.25
+Returns,603,24.16,92.87
+Billing,582,23.77,92.78
+Account,588,23.15,92.52
+Shipping,591,23.07,91.03
+Technical,581,23.06,90.71
