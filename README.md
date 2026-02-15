@@ -23,13 +23,6 @@ Executive summary: [docs/project1_executive_summary.md](docs/project1_executive_
 - Revenue by Category
 - Top 10 Products by Revenue
 - Revenue by Region
-- Total Revenue
-- Total Profit
-- Profit Margin (%)
-- Revenue by Month (trend)
-- Revenue by Category
-- Top 10 Products by Revenue
-- Revenue by Region
 
 ## Data
 The dataset is a simulated retail sales dataset provided in CSV format and structured to reflect a real business model:
