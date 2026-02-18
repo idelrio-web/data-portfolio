@@ -15,6 +15,8 @@ An operations team needs a clear, repeatable way to answer:
 **Interactive dashboard (Looker Studio):** (https://lookerstudio.google.com/reporting/86c86295-405e-4a04-8e48-3069f37d759a/page/OsnoF/edit)
 
 ![Project 2 Dashboard](docs/images/project2_dashboard.png)
+[Open screenshot](docs/images/project2_dashboard.png)
+
 
 ## Key Metrics (Definitions)
 - **Total Tickets:** total number of tickets created in the selected period.
